@@ -23,7 +23,7 @@ This project explores data using Tableau's powerful visualization capabilities. 
 ## 🧰 Tools Used
 
 - **Tableau Desktop** (Workbook format: `.twb`, Packaged Workbook: `.twbx`)
-- **Excel / CSV** (as data source, if applicable)
+- **Excel / CSV**
 - **Calculated Fields** & **Parameters** for dynamic views
 - **Dashboards** with filters and interactive charts
 
