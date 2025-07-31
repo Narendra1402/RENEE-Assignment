@@ -2,7 +2,7 @@
 
 An interactive Tableau project designed to deliver insightful visualizations and actionable analytics for business decision-making.
 
-<img width="623" height="352" alt="Capture1" src="https://github.com/user-attachments/assets/d6eae655-8854-4c08-9a49-f609f84e4b56" />
+<img width="1362" height="694" alt="Capture1" src="https://github.com/user-attachments/assets/d6eae655-8854-4c08-9a49-f609f84e4b56" />
 
 
 ## 📁 Project Overview
@@ -36,8 +36,7 @@ This project explores data using Tableau's powerful visualization capabilities. 
 - 📌 **Category/Segment Analysis**: Bar charts and heatmaps by business segments
 - 📌 **Interactive Filters**: Enable users to slice data by relevant fields (e.g., region, time, product)
 
-> 🖼️ Screenshots or embedded dashboard views can be added here if shared.
-
+> <img width="1362" height="694" alt="Capture1" src="https://github.com/user-attachments/assets/23492f15-aab6-4470-8cd8-3c2bc845e802" />
 
 
 ## 🔍 How to Use
